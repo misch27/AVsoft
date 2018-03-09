@@ -5,11 +5,19 @@
 "array": [
 [
 "C:\\Users\\misch\\PycharmProjects\\AVsoft\\test.txt",
-"test\\anime"
+"test\\txtFiles"
 ],
   [
 "C:\\Users\\misch\\PycharmProjects\\AVsoft\\ElectronicComputer.docx",
 "modern\\Comp"
+],
+  [
+"C:\\Users\\misch\\PycharmProjects\\AVsoft\\JAVAEE7.pdf",
+"test\\JavaPDF"
+],
+  [
+"C:\\Users\\misch\\PycharmProjects\\AVsoft\\Doc.txt",
+"test\\txtFiles"
 ]
 ]
 }
